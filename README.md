@@ -1,2 +1,2 @@
-Всем здрастье я infousername 
-пишу коды на пайтоне
+Hobby : python,html,css,dll,soft,c# ( p.s I don't really know)
+Question? - @name_dll (telegram)
